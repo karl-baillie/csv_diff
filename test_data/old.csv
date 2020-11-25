@@ -11,4 +11,3 @@ RangeType,IsProxy,IsVPN,IsTOR,Country,City,Region,ISP,Organization,ASN,Timezone,
 70.57.239.30/32,TRUE,FALSE,FALSE,US,Livingston,Montana,CenturyLink,CenturyLink,209,America/Denver,45.65420151,-110.5603027,82,82,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,low,low,Corporate
 169.139.190.224/27,TRUE,TRUE,FALSE,US,Rockledge,Florida,Spectrum Business,Spectrum Business,53979,America/New_York,28.3159008,-80.72920227,75,75,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,none,none,Corporate
 70.47.26/32,TRUE,TRUE,FALSE,US,Mountain View,California,Google Cloud,Google Cloud,15169,America/Los_Angeles,37.38999939,-122.0699997,100,100,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,high,high,Data Center
-196.196.112.16/32,TTRUE,TRUE,FALSE,US,Texas,Fibergrid,Fibergrid,,America/Chicago,32.79079819,-96.83360291,75,75,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,none,none,Corporate
