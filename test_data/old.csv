@@ -1,0 +1,14 @@
+RangeType,IsProxy,IsVPN,IsTOR,Country,City,Region,ISP,Organization,ASN,Timezone,Latitude,Longitude,ZeroFraudScore,OneFraudScore,RecentAbuse,IsBot,IsHostingProvider,PublicAccessPoint,ActiveVPN,ActiveTOR,AbuseVelocityZero,AbuseVelocityOne,ConnectionType
+2001:240:218c:4300:70a9:fc80:54cf:4efa/128,TRUE,TRUE,FALSE,JP,Tokyo,Tokyo,Internet Initiative Japan,Internet Initiative Japan,2497,Asia/Tokyo,35.68999863,139.75,82,82,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,medium,medium,Data Center
+2001:240:21b0:1800:2480:2cd9:d9dd:4370/128,TRUE,TRUE,FALSE,JP,Tokyo,Tokyo,Internet Initiative Japan,Internet Initiative Japan,2497,Asia/Tokyo,35.68999863,139.75,82,82,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,medium,medium,Data Center
+2600:1700:aa81:40:4949:df9e:6066:7485/128,TRUE,FALSE,FALSE,US,Redmond,Washington,AT&T U-verse,AT&T U-verse,7018,America/Los_Angeles,47.68000031,-122.1200028,100,100,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,high,high,Residential
+2001:500:200::/44,TRUE,TRUE,FALSE,US,Marina del Rey,California,B.Root-Server-OPS,B.Root-Server-OPS,394353,America/Los_Angeles,33.97999954,-118.4400024,93,93,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,high,high,Data Center
+18.1.43.30/31,TRUE,TRUE,FALSE,US,Cambridge,Massachusetts,Massachusetts Institute of Technology,Massachusetts Institute of Technology,3,America/New_York,42.36489868,-71.09870148,75,75,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,none,none,Education
+34.97.233.184/30,TRUE,TRUE,FALSE,US,Mountain View,California,Google Cloud,Google Cloud,15169,America/Los_Angeles,37.38999939,-122.0699997,75,75,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,none,none,Data Center
+34.97.233.187/32,TRUE,TRUE,FALSE,US,Mountain View,California,Google Cloud,Google Cloud,15169,America/Los_Angeles,37.38999939,-122.0699997,100,100,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,high,high,Data Center
+46.246.108.0/26,TRUE,TRUE,FALSE,SE,Stockholm,Stockholm County,GleSYS Internet Services AB,GleSYS Internet Services AB,42708,Europe/Stockholm,59.33330154,18.04999924,75,75,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,none,none,Corporate
+60.218.180.70/32,TRUE,FALSE,FALSE,CN,Fendou,Heilongjiang,China Unicom Liaoning,China Unicom Liaoning,4837,Asia/Shanghai,46.64139938,124.8628006,70,78,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,low,medium,Residential
+70.57.239.30/32,TRUE,FALSE,FALSE,US,Livingston,Montana,CenturyLink,CenturyLink,209,America/Denver,45.65420151,-110.5603027,82,82,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,low,low,Corporate
+169.139.190.224/27,TRUE,TRUE,FALSE,US,Rockledge,Florida,Spectrum Business,Spectrum Business,53979,America/New_York,28.3159008,-80.72920227,75,75,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,none,none,Corporate
+70.47.26/32,TRUE,TRUE,FALSE,US,Mountain View,California,Google Cloud,Google Cloud,15169,America/Los_Angeles,37.38999939,-122.0699997,100,100,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,high,high,Data Center
+196.196.112.16/32,TTRUE,TRUE,FALSE,US,Texas,Fibergrid,Fibergrid,,America/Chicago,32.79079819,-96.83360291,75,75,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,none,none,Corporate
